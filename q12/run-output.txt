@@ -1,0 +1,4 @@
+$ ~/q12-venv/bin/python ~/q12/train.py
+final loss: 0.000000
+weight: 3.0000, bias: -1.0000
+（环境：WSL Ubuntu 24.04, Python 3.12.3, torch 2.6.0+cpu；final loss < 0.001 达标）
